@@ -1,0 +1,95 @@
+/*header styles*/
+.title{
+    color:#FFFFFF ;
+    font-size: 32px;  
+    width: 260px; 
+    margin-top: 500px;
+    margin-left: 600px;
+    
+}
+.merriweather-light {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.merriweather-bold{
+    color:#FFFFFF ;
+    font-size: 72px; 
+    font-weight: 900px;
+    width: 632px;
+    margin-top: 283px;
+    margin-left: 484px;
+  }
+  .banner .align{
+    padding-bottom: 20px;
+    
+  }
+  
+  .maxwidth{
+    background-image: url(../images/Banner\ Image.png);
+   background-image:linear-gradient(
+
+    (180deg, #070211 0%, rgba(7, 2, 17, 0) 100%)
+    );
+    
+    width: 1320px;
+    margin-top: 0px;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 600px;
+    border-radius: 16px;
+   
+  }
+  .description {
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 400px;
+  }
+  /*main styles*/
+  .discount{
+    color: #FF0000;
+    font: 150px;
+    width: 420px;
+    height: 107px;
+    font-family: "Inter", sans-serif;
+    font-weight:800px;
+    font-style: normal;
+    top: 759px;
+    left: 608px;
+    color:#FF0000;
+    margin-top: 50px;
+  }
+  /*main styles*/
+  .red{
+color: #FF0000;
+margin-top: 10px;
+  }
+  .cat{
+    font:#070211;
+    font-weight:700;
+    width: 400px;
+    height: 40px;
+    font-size: 30px;
+    margin-top: 16px;
+  }
+  .discount .off{
+color:#FF0000;
+width: 270px;
+height: 50px;
+font-family: Inter;
+font-size: 50px;
+align-items: center;
+
+  }
+  .align-1{
+    margin-left: 700px;
+  }
+  .alignmg>.mg{
+
+margin-right:500px;
+max-width: 700px;
+height: 450px;
+  }
+  .align{
+    align-items: center;
+  }
